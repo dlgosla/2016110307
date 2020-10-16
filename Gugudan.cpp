@@ -9,7 +9,7 @@ void Gugudan(int n) {
 }
 
 int main() {
-    for (int i = 1; i < 9; i++) {
+    for (int i = 1; i < 10; i++) {
         Gugudan(i);
     }
     return 0;
